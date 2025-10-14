@@ -1,6 +1,6 @@
 {
   "minVersion": "1.0.0",
-  "force": false,
+  "force": true,
   "updateURL": "https://apps.apple.com/app/your-app-id",
   "messageAr": "تم إصدار تحديث جديد. يرجى تحديث التطبيق.",
   "messageEn": "A new update is available. Please update the app."
